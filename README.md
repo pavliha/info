@@ -18,7 +18,7 @@ I work, you advice | +20%
 I work, you help | +50%
 I work, you tell how | +60%
 
-### Front-end
+### Example
 
 How long will implementing filters for a search-results-page take?
 
