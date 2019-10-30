@@ -23,7 +23,9 @@ I work, you tell how | +60%
 How long will implementing filters for a search-results-page take?
 
 I'm thinking of the best case, where everything is specified neatly,
-the design is there, API is well known etc. ` 10 days ( 80 hrs ) `
+the design is there.
+
+API is well known etc. ` 10 days ( 80 hrs ) `
 
 *Now I'll start adding additional time*
 
