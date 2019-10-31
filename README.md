@@ -1,3 +1,7 @@
+# Workflow
+
+I was suprised to find out how few clients actually know that developers aren't really effective by themselves.
+
  # Estimations
 
 ![Image of Estimation time](646137606_1280x720.jpg)
