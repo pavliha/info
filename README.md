@@ -1,6 +1,3 @@
-# Workflow
-
-I was suprised to find out how few clients actually know that developers aren't really effective by themselves.
 
  # Estimations
 
